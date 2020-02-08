@@ -1,0 +1,25 @@
+_repo: Central-Station-Electric-Lighting-With-Notes-on-the-Methods-Used-for-the-Distribution-of-Elec__61219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hedges, Killingworth
+    gutenberg_agent_id: '51315'
+    url: http://www.gutenberg.org/2009/agents/51315
+description: ''
+gutenberg_issued: '2020-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61219'
+  lccn: ltf89000992
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electric light plants -- Europe'
+- !lcc 'TK'
+- GITenberg
+title: 'Central-Station Electric Lighting
+
+  With Notes on the Methods Used for the Distribution of Electricity'
+url: http://www.gutenberg.org/ebooks/61219
