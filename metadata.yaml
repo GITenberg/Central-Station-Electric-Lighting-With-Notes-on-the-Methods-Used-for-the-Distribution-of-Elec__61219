@@ -1,11 +1,16 @@
 _repo: Central-Station-Electric-Lighting-With-Notes-on-the-Methods-Used-for-the-Distribution-of-Elec__61219
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61219-h/images/cover.jpg
 creator:
   author:
     agent_name: Hedges, Killingworth
     gutenberg_agent_id: '51315'
     url: http://www.gutenberg.org/2009/agents/51315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61219#Central-Station-Electric-Lighting-With-Notes-on-the-Methods-Used-for-the-Distribution-of-Elec_
 gutenberg_issued: '2020-01-22'
 gutenberg_type: Text
 identifiers:
